@@ -26,26 +26,26 @@ License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Gangster Hacking... ❱━➣
+╭━━━━❰ ꫝꪖ𝓽𝓲... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
 
-    ABOUT_TXT = """
-╭───────────⍟
-├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
-├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
-├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
-├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://apps.koyeb.com>Koyeb</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://dashboard.heroku.com>Heroku</a>
-├📊 BUILD-STATUS : Python v3.6.8               
-╰───────────────⍟
-                                """
+    ABOUT_TXT = """𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
+✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
+║╭━━━━━━━━━━━━━━━➣ 
+║┣⪼ 𝓜𝔂 𝓝𝓪𝓶𝓮 - 𝚁𝙴𝙽𝙰𝙼𝙴 𝙱𝙾𝚃
+║┣⪼ 𝓒𝓻𝓮𝓪𝓽𝓸𝓻 - <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
+║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 - 𝙺𝙾𝚈𝙴𝙱
+║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
+║╰━━━━━━━━━━━━━━━➣
+╚══════════════════❍⊱❁"""
     HELP_TXT = """
 🌌 <b><u>HOW TO SET THUMBNILE</u></b>
   
@@ -64,18 +64,11 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com/LazyDeveloperrr>Direct Message</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
-
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw>Watch Tutorial</a>
-
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>Direct-Msg-TG</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Join Movies Adda</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
-"""
+    DEV_TXT = """ᴅᴇᴠᴇʟᴏᴩᴇʀ
+    
+✵⪼ <a href=https://t.me/Hari_OP>𝙷𝙱</a>
+✵⪼ <a href=https://t.me/MS_NEWONN>𝙼𝚂 </a>"""
