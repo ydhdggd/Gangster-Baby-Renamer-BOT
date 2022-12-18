@@ -41,13 +41,13 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", callback_data='dev')
         ],[
-        InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/LazyDeveloper'),
-        InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ', url='https://t.me/LazyPrincessSupport')
+        InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/+dyvRr3LZxlI4ZjVl'),
+        InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/FLIMSGROUP')
         ],[
         InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/channel/UC
+        InlineKeyboardButton("▷ꜱᴜᴩᴩᴏʀᴛ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ◁", url='https://t.me/TAMIL_FLIMS_HD')
         ]
         ])
     if START_PIC:
@@ -93,13 +93,13 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", callback_data='dev')
         ],[
-        InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/LazyDeveloper'),
-        InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ', url='https://t.me/LazyPrincessSupport')
+        InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/+dyvRr3LZxlI4ZjVl'),
+        InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/FLIMSGROUP')
         ],[
         InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/cha
+        InlineKeyboardButton("▷ꜱᴜᴩᴩᴏʀᴛ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ◁", url='https://t.me/TAMIL_FLIMS_HD')
         ]
         ]
                 )
@@ -109,11 +109,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/+dyvRr3LZxlI4ZjVl")
                ],[
-               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ", url='https://t.me/FLIMSGROUP')
                ],[
-               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/+WwDm2ByFlz80YTY9")
+               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/TAMIL_FLIMS_HD")
                ],[
                InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data = "close"),
                InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "start")
@@ -126,11 +126,11 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/+dyvRr3LZxlI4ZjVl")
                ],[
-               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ", url='https://t.me/FLIMSGROUP')
                ],[
-                InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/+WwDm2ByFlz80YTY9")
+                InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/TAMIL_FLIMS_HD")
                ],[
                InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data = "close"),
                InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "start")
@@ -142,11 +142,11 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/+dyvRr3LZxlI4ZjVl")
                ],[
-               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ", url='https://t.me/FLIMSGROUP')
                ],[
-                InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/+WwDm2ByFlz80YTY9")
+                InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/TAMIL_FLIMS_HD")
                ],[
                InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data = "close"),
                InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "start")
