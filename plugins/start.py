@@ -89,7 +89,7 @@ async def cb_handler(client, query: CallbackQuery):
     data = query.data 
     if data == "start":
         await query.message.edit_text(
-            text=f"""👋 Hello Developer {query.from_user.mention} \n\nI am an Advance file Renamer and file Converter BOT with permanent and custom thumbnail support.\n\nSend me any video or document !""",
+            text=f"""ʜᴇʟʟᴏ {query.from_user.mention} \n\nɪ ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ꜰɪʟᴇ ʀᴇɴᴀᴍᴇʀ ᴀɴᴅ ꜰɪʟᴇ ᴄᴏɴᴠᴇʀᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ.\n\nꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ !""",
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", callback_data='dev')
         ],[
